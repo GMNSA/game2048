@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/Game2048/qmldir</file>
+        <file>qml/Game2048/Board/qmldir</file>
+        <file>qml/Game2048/Board/Board.qml</file>
+        <file>qml/Game2048/Tile/Tile.qml</file>
+        <file>qml/Game2048/Tile/qmldir</file>
+        <file>qml/Game2048/Button/qmldir</file>
+        <file>qml/Game2048/Button/Button.qml</file>
+        <file>qml/Game2048/Score/Score.qml</file>
+        <file>qml/Game2048/Score/qmldir</file>
+        <file>qml/Game2048/BoardScore/qmldir</file>
+        <file>qml/Game2048/BoardScore/BoardScore.qml</file>
+    </qresource>
+</RCC>

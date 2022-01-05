@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Color.js">Color.js</file>
+    </qresource>
+</RCC>
